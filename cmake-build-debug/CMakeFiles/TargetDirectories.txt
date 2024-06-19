@@ -1,0 +1,3 @@
+F:/FOC/C031_FOC/cmake-build-debug/CMakeFiles/C031_FOC.elf.dir
+F:/FOC/C031_FOC/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/FOC/C031_FOC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
